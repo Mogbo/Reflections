@@ -1,0 +1,2 @@
+1. When you initialize a repository a hidden file containing the history etc is created
+2. The staging area allows you to view your files before committing

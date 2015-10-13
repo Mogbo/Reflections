@@ -14,7 +14,7 @@ commit, like you do in Git, vs having versions automatically saved, like Google
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    It allows you to decide logical changes in code, as opposed to arbitrary
+    It allows you to decide logical changes in code, as opposed to arbitraryss
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?

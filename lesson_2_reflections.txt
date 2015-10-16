@@ -2,3 +2,4 @@
 2. The staging area allows you to view your files before committing
 3. Branches can help you organize and keep track of your work as you explore new optionss
 4. The diagrams help you know the history and who has done what
+5. Merging allows two different features to be combined into one

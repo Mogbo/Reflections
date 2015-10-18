@@ -4,4 +4,4 @@
 4. The diagrams help you know the history and who has done what
 5. Merging allows two different features to be combined into one
 6. Automerging is faster and devoid of human error. However, it is prone to unnecessary conflicting and 
-   lacks human intelligence in things like spaces, etc
+   lacks human intelligence in things like spaces, and so on.

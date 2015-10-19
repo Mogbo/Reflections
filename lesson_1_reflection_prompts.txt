@@ -33,4 +33,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Compulsory to go to Android
+    Compulsory to go to Android. Adding this to check if lesson1 and 2 reflections are tracked together

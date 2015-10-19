@@ -5,3 +5,4 @@
 5. Merging allows two different features to be combined into one
 6. Automerging is faster and devoid of human error. However, it is prone to unnecessary conflicting and 
    lacks human intelligence in things like spaces, and blah blah blah.
+7. Adding this line to check file tracking
